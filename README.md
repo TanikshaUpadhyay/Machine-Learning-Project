@@ -70,3 +70,16 @@ Decision Tree is fast and interpretable; Random Forest often improves generaliza
 **Notes about imbalance / robustness:**  
 - Dataset is generally balanced across crops (or not — replace with true observation).  
 - If classes are imbalanced, we recommend stratified sampling or resampling techniques.
+
+**Conclusion:**
+
+The Crop Recommendation System based on the idea of Machine Learning is a successful example of how data-oriented approaches can help farmers make the right choice in relation to crop choice based on soil conditions and the environment.
+Using Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH and Rainfall parameters, the system forecasts the most appropriate crop to grow in conditions based on the parameters.
+
+Decision tree and random forest were two of the models which were implemented and assessed.
+Random Forest Classifier had higher accuracy, precision, recall and F1-score compared to the Decision Tree thus its overall accuracy was about 98-99.
+This ratifies the fact that ensemble approaches are more robust and predictive, than single-tree approaches.
+
+The system aptly depicts the capability of Machine Learning in accurate agriculture.
+It would assist farmers to increase yield, exploit the resources optimally, and reduce risks in choosing crops that are unsuitable.
+This model can be expanded into a useful decision-support instrument of sustainable agriculture, and more features can be added to it, including hyperparameter optimization, integration into real-time weather, and the development of an operator as a web or mobile app.
