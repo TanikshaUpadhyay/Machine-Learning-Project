@@ -21,7 +21,7 @@ This project constructs a **Crop Recommendation System** that predicts suitable 
 
 ## Dataset Source
 **Source:** Open Government Data Platform India — *Crop Recommendation Dataset*  
-**Link:** https://data.gov.in/ (or exact dataset link)  
+**Link:** [https://data.gov.in/](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)  
 
 **Dataset size:** 2,200 rows × 8 columns (example)  
 **Features:** `N`, `P`, `K`, `temperature`, `humidity`, `ph`, `rainfall`, `label` (target crop)
